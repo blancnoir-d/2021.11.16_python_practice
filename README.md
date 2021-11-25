@@ -6,3 +6,5 @@
 - 2021.11.19 - : list 내장함수 확인 및 구현. matplotlib를 이용한 간단한 시각화. matplotlib 한글깨짐 해결
 - 2021.11.22 - : tkinter, PIL, 클래스, 상속에 관한 예제 및 복습.
 - 2021.11.23 - : 클래스 복습. list,Array 비교 방법에 대한 것. 연습문제 위주. (당근)
+- 2021.11.24 - : Numpy, Pandas 
+- 2021.11.25 - : Pandas, Matplotlib
