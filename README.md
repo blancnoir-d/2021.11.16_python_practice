@@ -8,3 +8,4 @@
 - 2021.11.23 - : 클래스 복습. list,Array 비교 방법에 대한 것. 연습문제 위주. (당근)
 - 2021.11.24 - : Numpy, Pandas 
 - 2021.11.25 - : Pandas, Matplotlib, 타이타닉 데이터로 pandas 연습.
+- 2021.11.26 - : Pandas 데이터 핸들링 연습. selenium, BeautifulSoup을 이용한 크롤링- 멜론 차트, 유튜브 랭킹 목록 1000개 크롤링 시각화 앞둠. 
