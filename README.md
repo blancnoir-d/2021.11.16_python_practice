@@ -10,3 +10,4 @@
 - 2021.11.25 - : Pandas, Matplotlib, 타이타닉 데이터로 pandas 연습.
 - 2021.11.26 - : Pandas 데이터 핸들링 연습. selenium, BeautifulSoup을 이용한 크롤링- 멜론 차트, 유튜브 랭킹 목록 1000개 크롤링 시각화 앞둠. 
 - 2021.11.29 - : 유튜브 크롤링 시각화 마무리. 국가별 관광객 데이터 전처리 및 시각화. pymysql이용한 mysql connection 
+- 2021.11.30 - : pymysql을 이용한 select, insert, update, delete 연습. 스타벅스 크롤링을 이용한 데이터 수집 진행 중
