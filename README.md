@@ -16,3 +16,4 @@
 - 2021.12.06 - : Contour, Threshold에 관해서 구현. 옵션에 대한 공부와 이해가 더 필요하다. 
 - 2021.12.07 - : Contour moment, 중심점, 외곽선 길이(cv2.arcLength()) 등 함수. 영상처리 관련 함수(blur, gaussianblur, medianblur) 등 함수, 히스토그램. 
 - 2021.12.09 - : konlpy와 nltk를 이용한 영문 단어 wordcloud. 한글쪽은 진행 중
+- 2021.12.10 - : 한글 wordcount 해봄.. 개인 프로젝트가 시급하다
