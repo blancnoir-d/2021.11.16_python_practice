@@ -17,3 +17,4 @@
 - 2021.12.07 - : Contour moment, 중심점, 외곽선 길이(cv2.arcLength()) 등 함수. 영상처리 관련 함수(blur, gaussianblur, medianblur) 등 함수, 히스토그램. 
 - 2021.12.09 - : konlpy와 nltk를 이용한 영문 단어 wordcloud. 한글쪽은 진행 중
 - 2021.12.10 - : 한글 wordcount 해봄.. 개인 프로젝트가 시급하다
+- 2021.12.13 - : 12월 10일에 data가 없어서 못했던 커피빈 매장 지도 시각화. scikit-learn을 이용한 선형회귀. keras convolution 해봄. 
