@@ -20,3 +20,4 @@
 - 2021.12.13 - : 12월 10일에 data가 없어서 못했던 커피빈 매장 지도 시각화. scikit-learn을 이용한 선형회귀. keras convolution 해봄. 
 - 2021.12.14 - : KMeans 부분이 이해가 안되서 마무리를 못함. 다시 공부. tensorflow gpu 설정으로 시간을 너무 많이 허비... 아.,...ㅁㄴㅇ럼ㄴ읾 ...정리 다시 제대로 해둬야ㅜ 
 - 2021.12.15 - : 13일 14일에 진행한 결정트리, 감성분석 마무리. 이해가 안되는 부분들을 찾아서 진행했는데도 여전히 어려움. 더 공부 필요. TfidfVectorizer, GridSearchCV 등등.
+- 2021.12.16 - : tensorflow 시작. keras sequential로 모델 구성
